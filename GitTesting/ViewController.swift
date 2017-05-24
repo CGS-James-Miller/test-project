@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         print("Master branch update")
         print("Feature-x")
         print("feature-y")
+        print("Bug fixed")
     }
 
     override func didReceiveMemoryWarning() {
