@@ -18,6 +18,11 @@ class ViewController: UIViewController {
         print("Feature-x")
         print("feature-y")
     }
+    
+    func awesomeSauce() {
+        print("I like awesome sauce")
+        print("I also like slightly less sauce")
+    }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
