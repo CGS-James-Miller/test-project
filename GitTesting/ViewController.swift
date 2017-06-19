@@ -23,6 +23,7 @@ class ViewController: UIViewController {
     func awesomeSauce() {
         print("I like awesome sauce")
         print("I also like slightly less sauce")
+        print("Added new view controller")
     }
 
     override func didReceiveMemoryWarning() {
